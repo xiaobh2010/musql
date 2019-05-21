@@ -18,9 +18,9 @@ mysql一些基本信息
   
 4 安装pip
 	sudo apt-get install python3-pip
-在线安装第三方模块
+5 在线安装第三方模块
 	sudo pip3 install pymysql
-离线安装第三方模块
+6 离线安装第三方模块
 	下载安装包 .tar.gz
 	解压: tar -zvf pymysql.tar.gz
 	cd到解压文件夹，找setup.py　README
